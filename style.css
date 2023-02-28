@@ -3,6 +3,7 @@ body{
 	color:black;
 	background: linear-gradient(#FF00FF, blue);
   font-size:20pt;
+
 }
 
 
@@ -181,4 +182,6 @@ list-style-type:lower-alpha;
 img {
 width : 400px;
 height : 400px;
+margin-top: 70px;
+margin-bottom: 10px;
 }
